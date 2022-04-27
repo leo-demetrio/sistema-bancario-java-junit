@@ -12,7 +12,9 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-= Sistema Bancário para Testes com JUnit 5
+= Sistema Bancário para Testes com JUnit 5 image:https://img.shields.io/github/workflow/status/leo-demetrio/sistema-bancario-java-junit/maven[GitHub Workflow Status]
+
+
 
 IMPORTANT: Vídeo: https://youtu.be/isOY-qG5bxU[🧪⚙️☕️ #1 TDD com JUNIT 5 no VS CODE: Implementando Regras de Negócio em JAVA pra um Sistema Bancário]
 
