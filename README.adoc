@@ -22,7 +22,7 @@ a partir de um conjunto de requisitos detalhados na documentação. O diagrama a
 .Diagrama das Classes de Negócio do Sistema Bancário (pacote link:src/main/java/com/sistemabancario/model[model]).
 image::diagrama-classes-model.png[]
 
-{nbsp} + 
+{nbsp} + -
 
 O código de tais classes foi gerado a partir do http://staruml.io[StarUML] e está disponível em um link:src[projeto Java
 na pasta src], contendo a mesma documentação disponível no projeto UML.
